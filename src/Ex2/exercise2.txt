@@ -1,0 +1,2 @@
+SELECT roomnumber, roomname, roomcapacity FROM office;
+SELECT roomnumber, roomname, roomcapacity FROM office WHERE roomnumber = 1;
